@@ -1,0 +1,4 @@
+tk
+reportlab
+pandas
+python-dotenv
