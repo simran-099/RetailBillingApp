@@ -1,0 +1,15 @@
+# === Python cache files ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === macOS system file ===
+.DS_Store
+
+# === Environment variables (PRIVATE) ===
+.env
+
+# === App-generated data ===
+bills/
+sales_data.csv
